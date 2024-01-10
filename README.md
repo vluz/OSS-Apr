@@ -1,1 +1,3 @@
-Apresentação de OSS para 
+# OSS Apr
+
+Apresentação de uma lista curada de aplicações de software livre
